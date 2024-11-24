@@ -14,6 +14,8 @@ In `Settings` > `Display` be sure to set the following:
   - Saturation: 14/20
   - Contrast: 18/20
 
+Overall brightness should be 9/10
+
 Check `root/RetroArch/cpuclock.txt` I went for the safer 1800 but you can try 1900. [Video](https://www.youtube.com/watch?v=2ptdAy3nZ8Y&t=307s) guide for more information on overlclocking.
 
 ## Installation
