@@ -6,7 +6,7 @@ This repository contains a collection of recommended overlays for the Miyoo Mini
 
 ## Requirements
 
-Onion v4.3.0 or later is required as that's when most Perfect overlays were [added](https://github.com/OnionUI/Onion/pull/1436). I have added newer overlays that are not included in the latest release.
+Onion v4.3.1 or later is required as that's when most Perfect overlays were [added](https://github.com/OnionUI/Onion/pull/1436). I have added newer overlays that are not included in the latest release.
 
 In `Settings` > `Display` be sure to set the following:
   - Lumiance: 07/20
@@ -44,7 +44,7 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all games of the same system)
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
@@ -76,7 +76,7 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all GB games)
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
@@ -109,7 +109,7 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all GBC games)
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
@@ -136,7 +136,7 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all GBA games)
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
@@ -164,7 +164,7 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all GG games)
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
@@ -186,8 +186,51 @@ Any items in bold are my personal preferences
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Content Directory Overrides (To use the overlay with all MD games)
   - Save Game Overrides (To use the overlay with a single game)
+
+- Go back and `Resume` the game.
+
+### Neo Geo Pocket / Color by drkhrse - [Link](https://github.com/drkhrse/drkhrse_miyoo_bezels)
+
+- **During a game**: Menu + Select > On-Screen Overlay
+
+  1. Display Overlay > On
+  2. Overlay Preset > **`NGPC`** or `NGP` > **`NGPC.cfg`** or `NGP.cfg`
+
+- Go back to `Settings`
+
+  1. Video > Scaling >
+      - Integer Scale > Off
+      - Keep Aspect Ratio > On
+      - Crop Overscan > Off
+
+- Go back to `Quick Menu` > Overrides and choose one:
+
+  - Save Content Directory Overrides (To use the overlay with all NGP games)
+  - Save Game Overrides (To use the overlay with a single game)
+
+- Go back and `Resume` the game.
+
+### PICO-8 by /u/ConspiratorGame - [Link](https://www.reddit.com/r/MiyooMini/comments/1cv9n4m/pico_gear_overlay_for_miyoo_mini_plus/)
+
+- **During a game**: Menu + Select > On-Screen Overlay
+
+  1. Display Overlay > On
+  2. Overlay Preset > `PICO` > `PICO_Gear` > `Scale_(README)` > `Pico_Gear_Scale.cfg`
+
+- Go back to `Settings`
+
+  1. Video > Scaling >
+      - Integer Scale > On
+      - Keep Aspect Ratio > On
+      - Crop Overscan > Off
+  2. Video > Video Filter > Pico > `Pico_Gear_Scale_Offset.filt`
+
+- Go back to `Quick Menu` > Overrides and choose one:
+
+  - Save Core Overrides (To use the overlay with all PICO-8 games)
+  - Save Content Directory Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
 
