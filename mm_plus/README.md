@@ -26,31 +26,6 @@ Check `root/RetroArch/cpuclock.txt` I went for the safer 1800 but you can try 19
 
 Any items in bold are my personal preferences
 
-### SNES / Super Famicom - [Link](https://www.reddit.com/r/MiyooMini/comments/1dlaa4s/i_made_a_snes_crt_overlay/)
-
-- **During a game**: Menu + Select > On-Screen Overlay
-
-  1. Display Overlay > On
-  2. Overlay Preset > SFC > `Perfect_CRT(SNES).cfg` or **`Perfect_CRT(SNES-noframe).cfg`**
-
-- Go back to `Settings`
-
-  1. Video > Scaling >
-      - Integer Scale > Off
-      - Keep Aspect Ratio > Off
-      - Crop Overscan > Off
-  2. Video > Image Interpolation > Bilinear
-  3. Video > Video Filter > Blargg NTSC SNES > `Blargg_Perfect_SNES(brt1).filt` or **`Blargg_Perfect_SNES(brt2).filt`**
-
-    ℹ️ `brt1` is more neutral whilst `brt2`is more contrasty and vibrant
-
-- Go back to `Quick Menu` > Overrides and choose one:
-
-  - Save Content Directory Overrides (To use the overlay with all SNES games)
-  - Save Game Overrides (To use the overlay with a single game)
-
-- Go back and `Resume` the game.
-
 ### GB / Game Boy - [Link](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/)
 
 - **During a game**: Menu + Select > On-Screen Overlay
@@ -139,6 +114,34 @@ Any items in bold are my personal preferences
 
 - Go back and `Resume` the game.
 
+### Game Gear - [Link](https://www.reddit.com/r/MiyooMini/comments/199wwsw/i_made_a_sega_game_gear_overlay/)
+
+- **During a game**: Menu + Select > On-Screen Overlay
+
+  1. Display Overlay > On
+  2. Overlay Preset > GG > `Perfect_GG.cfg`
+
+- Go back to `Core Options`
+
+  1. Video > LCD Ghosting Filter > Weak
+  2. Video > Renderer > Accurate
+  3. Manage Core Options > Save Content Directory Options
+
+- Go back to `Settings`
+
+  1. Video > Scaling >
+      - Integer Scale > Off
+      - Keep Aspect Ratio > Off
+      - Crop Overscan > Off
+  2. Video > Image Interpolation > Bilinear
+
+- Go back to `Quick Menu` > Overrides and choose one:
+
+  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Game Overrides (To use the overlay with a single game)
+
+- Go back and `Resume` the game.
+
 ### CRT - [Link](https://www.reddit.com/r/MiyooMini/comments/15u78vy/i_made_a_240p_crt_overlay/)
 
 - **During a game**: Menu + Select > On-Screen Overlay
@@ -165,3 +168,28 @@ Any items in bold are my personal preferences
 ℹ️ Bonus tip: Under `Quick Menu` > `Core Options` set
   - `CPU Clock` to 200% (Helps with slowdowns in Metal Slug X for example)
   - `DIP Switches` > `Free play` > `On` (No more credits needed in compatible games)
+
+### SNES / Super Famicom - [Link](https://www.reddit.com/r/MiyooMini/comments/1dlaa4s/i_made_a_snes_crt_overlay/)
+
+- **During a game**: Menu + Select > On-Screen Overlay
+
+  1. Display Overlay > On
+  2. Overlay Preset > SFC > `Perfect_CRT(SNES).cfg` or **`Perfect_CRT(SNES-noframe).cfg`**
+
+- Go back to `Settings`
+
+  1. Video > Scaling >
+      - Integer Scale > Off
+      - Keep Aspect Ratio > Off
+      - Crop Overscan > Off
+  2. Video > Image Interpolation > Bilinear
+  3. Video > Video Filter > Blargg NTSC SNES > `Blargg_Perfect_SNES(brt1).filt` or **`Blargg_Perfect_SNES(brt2).filt`**
+
+    ℹ️ `brt1` is more neutral whilst `brt2`is more contrasty and vibrant
+
+- Go back to `Quick Menu` > Overrides and choose one:
+
+  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Game Overrides (To use the overlay with a single game)
+
+- Go back and `Resume` the game.
