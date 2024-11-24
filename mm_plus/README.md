@@ -26,6 +26,33 @@ Check `root/RetroArch/cpuclock.txt` I went for the safer 1800 but you can try 19
 
 Any items in bold are my personal preferences
 
+### CRT - [Link](https://www.reddit.com/r/MiyooMini/comments/15u78vy/i_made_a_240p_crt_overlay/)
+
+- **During a game**: Menu + Select > On-Screen Overlay
+
+  1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > **`Perfect_CRT-240p.cfg`** or `Perfect_CRT.cfg` or `Perfect_CRT-noframe.cfg`
+
+    ℹ️ I use the 240p version for playing Neo Geo games but you can experiment with the other higher res overlays with or without the frame
+
+- Go back to `Settings`
+
+  1. Video > Scaling >
+      - Integer Scale > Off
+      - Keep Aspect Ratio > On
+      - Crop Overscan > Off
+  2. Video > Image Interpolation > Bilinear
+
+- Go back to `Quick Menu` > Overrides and choose one:
+
+  - Save Content Directory Overrides (To use the overlay with all SNES games)
+  - Save Game Overrides (To use the overlay with a single game)
+
+- Go back and `Resume` the game.
+
+ℹ️ Bonus tip: Under `Quick Menu` > `Core Options` set
+  - `CPU Clock` to 200% (Helps with slowdowns in Metal Slug X for example)
+  - `DIP Switches` > `Free play` > `On` (No more credits needed in compatible games)
+
 ### GB / Game Boy - [Link](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/)
 
 - **During a game**: Menu + Select > On-Screen Overlay
@@ -142,21 +169,20 @@ Any items in bold are my personal preferences
 
 - Go back and `Resume` the game.
 
-### CRT - [Link](https://www.reddit.com/r/MiyooMini/comments/15u78vy/i_made_a_240p_crt_overlay/)
+### Mega Drive / Genesis - [Link](https://www.reddit.com/r/MiyooMini/comments/1azsjy8/in_case_you_missed_it_1playerinsertcoin_perfect/ks3lbiz/)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
-  1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > **`Perfect_CRT-240p.cfg`** or `Perfect_CRT.cfg` or `Perfect_CRT-noframe.cfg`
-
-    ℹ️ I use the 240p version for playing Neo Geo games but you can experiment with the other higher res overlays with or without the frame
+  1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > `Perfect_CRT-240p.cfg`
 
 - Go back to `Settings`
 
   1. Video > Scaling >
       - Integer Scale > Off
-      - Keep Aspect Ratio > On
+      - Keep Aspect Ratio > Off
       - Crop Overscan > Off
-  2. Video > Image Interpolation > Bilinear
+  2. Video > Image Interpolation > Bicubic
+  3. Video > Video Filter > Blargg NTSC MD > `Blargg_NTSC_MD_Composite2`
 
 - Go back to `Quick Menu` > Overrides and choose one:
 
@@ -164,10 +190,6 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
-
-ℹ️ Bonus tip: Under `Quick Menu` > `Core Options` set
-  - `CPU Clock` to 200% (Helps with slowdowns in Metal Slug X for example)
-  - `DIP Switches` > `Free play` > `On` (No more credits needed in compatible games)
 
 ### SNES / Super Famicom - [Link](https://www.reddit.com/r/MiyooMini/comments/1dlaa4s/i_made_a_snes_crt_overlay/)
 
