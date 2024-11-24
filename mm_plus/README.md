@@ -32,13 +32,13 @@ Any items in bold are my personal preferences
 
   1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > **`Perfect_CRT-240p.cfg`** or `Perfect_CRT.cfg` or `Perfect_CRT-noframe.cfg`
 
-    ℹ️ I use the 240p version for playing Neo Geo games but you can experiment with the other higher res overlays with or without the frame
+    ℹ️ I use the 240p version for playing Neo Geo games but you can experiment with the other higher res overlays with or without the frame. I use `Perfect_CRT-noframe.cfg` for PSX games.
 
 - Go back to `Settings`
 
   1. Video > Scaling >
       - Integer Scale > Off
-      - Keep Aspect Ratio > On
+      - Keep Aspect Ratio > On (depending on system, for PSX I have it off, you'll see when it's wrong!)
       - Crop Overscan > Off
   2. Video > Image Interpolation > Bilinear
 
