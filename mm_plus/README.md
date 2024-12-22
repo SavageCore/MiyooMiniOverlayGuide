@@ -30,6 +30,8 @@ Any items in bold are my personal preferences
 
 ### CRT - [Link](https://www.reddit.com/r/MiyooMini/comments/15u78vy/i_made_a_240p_crt_overlay/)
 
+![crt_preview](https://github.com/user-attachments/assets/1ef0cede-9488-4fed-b269-23b2974e1c3d)
+
 - **During a game**: Menu + Select > On-Screen Overlay
 
   1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > **`Perfect_CRT-240p.cfg`** or `Perfect_CRT.cfg` or `Perfect_CRT-noframe.cfg`
@@ -56,6 +58,8 @@ Any items in bold are my personal preferences
   - `DIP Switches` > `Free play` > `On` (No more credits needed in compatible games)
 
 ### GB / Game Boy - [Link](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/)
+
+![gb_preview](https://github.com/user-attachments/assets/344c36e7-cd71-4d43-bbee-bf31d6dd5714)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
@@ -84,6 +88,8 @@ Any items in bold are my personal preferences
 - Go back and `Resume` the game.
 
 ### GBC / Game Boy Color - [Link](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/)
+
+![gbc_preview](https://github.com/user-attachments/assets/7072ed26-dcde-4789-a36a-3a4ec94d7b0f)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
@@ -118,6 +124,8 @@ Any items in bold are my personal preferences
 
 ### GBA / Game Boy Advance - [Link](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/)
 
+![gba_preview](https://github.com/user-attachments/assets/59f606da-86db-479c-9af2-6eadd5f14c7b)
+
 - **During a game**: Menu + Select > On-Screen Overlay
 
   1. Overlay Preset > GBA > Perfect_GBA(read-instructions) > `Perfect_GBA.cfg`
@@ -144,6 +152,8 @@ Any items in bold are my personal preferences
 - Go back and `Resume` the game.
 
 ### Game Gear - [Link](https://www.reddit.com/r/MiyooMini/comments/199wwsw/i_made_a_sega_game_gear_overlay/)
+
+![gg_preview](https://github.com/user-attachments/assets/a93dc171-e455-4124-a4f5-d1d1811724d6)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
@@ -173,6 +183,8 @@ Any items in bold are my personal preferences
 
 ### Mega Drive / Genesis - [Link](https://www.reddit.com/r/MiyooMini/comments/1azsjy8/in_case_you_missed_it_1playerinsertcoin_perfect/ks3lbiz/)
 
+![md_preview](https://github.com/user-attachments/assets/e0edb2eb-f628-435a-b63c-1d9a164eaf02)
+
 - **During a game**: Menu + Select > On-Screen Overlay
 
   1. Overlay Preset > 4-3 > CRT > Perfect_CRT(read-instructions) > `Perfect_CRT-240p.cfg`
@@ -195,6 +207,8 @@ Any items in bold are my personal preferences
 
 ### Neo Geo Pocket / Color by drkhrse - [Link](https://github.com/drkhrse/drkhrse_miyoo_bezels)
 
+![ngpc_preview](https://github.com/user-attachments/assets/06318fa8-2e38-4b7e-8cb7-af5f95470f1f)
+
 - **During a game**: Menu + Select > On-Screen Overlay
 
   1. Display Overlay > On
@@ -215,6 +229,8 @@ Any items in bold are my personal preferences
 - Go back and `Resume` the game.
 
 ### PICO-8 by /u/ConspiratorGame - [Link](https://www.reddit.com/r/MiyooMini/comments/1cv9n4m/pico_gear_overlay_for_miyoo_mini_plus/)
+
+![pico8_preview](https://github.com/user-attachments/assets/d816cce9-96c2-4e0f-83f0-ac34e63a2ad2)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
@@ -237,6 +253,8 @@ Any items in bold are my personal preferences
 - Go back and `Resume` the game.
 
 ### SNES / Super Famicom - [Link](https://www.reddit.com/r/MiyooMini/comments/1dlaa4s/i_made_a_snes_crt_overlay/)
+
+![snes_preview](https://github.com/user-attachments/assets/8904fe56-d210-4075-be43-b29941baab01)
 
 - **During a game**: Menu + Select > On-Screen Overlay
 
