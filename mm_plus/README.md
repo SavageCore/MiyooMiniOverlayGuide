@@ -26,7 +26,9 @@ Check `root/RetroArch/cpuclock.txt` I went for the safer 1800 but you can try 19
 4. Reinsert the SD card into your device and turn it on.
 5. Follow all sections below to configure the overlays for each system.
 
-Any items in bold are my personal preferences
+##### ℹ️ Any items in bold are my personal preferences
+<details>
+  <summary><b>CRT</b></summary>
 
 ### CRT - [Link](https://www.reddit.com/r/MiyooMini/comments/15u78vy/i_made_a_240p_crt_overlay/)
 
@@ -56,6 +58,10 @@ Any items in bold are my personal preferences
 ℹ️ Bonus tip: Under `Quick Menu` > `Core Options` set
   - `CPU Clock` to 200% (Helps with slowdowns in Metal Slug X for example)
   - `DIP Switches` > `Free play` > `On` (No more credits needed in compatible games)
+</details>
+
+<details>
+  <summary><b>Game Boy</b></summary>
 
 ### GB / Game Boy - [Link](https://www.reddit.com/r/MiyooMini/comments/18e2o0z/i_remastered_my_game_boy_dmg_overlay/)
 
@@ -86,6 +92,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>Game Boy Color</b></summary>
 
 ### GBC / Game Boy Color - [Link](https://www.reddit.com/r/MiyooMini/comments/1857xa7/i_made_a_game_boy_color_overlay/)
 
@@ -121,6 +130,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>Game Boy Advance</b></summary>
 
 ### GBA / Game Boy Advance - [Link](https://www.reddit.com/r/MiyooMini/comments/18ovuld/i_made_a_game_boy_advance_overlay/)
 
@@ -150,6 +162,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>Game Gear</b></summary>
 
 ### Game Gear - [Link](https://www.reddit.com/r/MiyooMini/comments/199wwsw/i_made_a_sega_game_gear_overlay/)
 
@@ -180,6 +195,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>Mega Drive / Genesis</b></summary>
 
 ### Mega Drive / Genesis - [Link](https://www.reddit.com/r/MiyooMini/comments/1azsjy8/in_case_you_missed_it_1playerinsertcoin_perfect/ks3lbiz/)
 
@@ -204,6 +222,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>Neo Geo Pocket / Color</b></summary>
 
 ### Neo Geo Pocket / Color by drkhrse - [Link](https://github.com/drkhrse/drkhrse_miyoo_bezels)
 
@@ -227,6 +248,9 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>PICO-8</b></summary>
 
 ### PICO-8 by /u/ConspiratorGame - [Link](https://www.reddit.com/r/MiyooMini/comments/1cv9n4m/pico_gear_overlay_for_miyoo_mini_plus/)
 
@@ -251,6 +275,9 @@ Any items in bold are my personal preferences
   - Save Content Directory Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
+<details>
+  <summary><b>SNES</b></summary>
 
 ### SNES / Super Famicom - [Link](https://www.reddit.com/r/MiyooMini/comments/1dlaa4s/i_made_a_snes_crt_overlay/)
 
@@ -278,3 +305,4 @@ Any items in bold are my personal preferences
   - Save Game Overrides (To use the overlay with a single game)
 
 - Go back and `Resume` the game.
+</details>
